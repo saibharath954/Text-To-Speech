@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "Customer",
+    "text": "Hi, Mohit. Mujhe 10 August ke liye room book karna hai. Kya rooms available hain?",
+    "start": 18
+  },
+  {
+    "speaker": "AI",
+    "text": "Bilkul, sir--ek moment please... Yes, rooms available hain. Sabhi plans breakfast ke saath aate hain. Standard Room: 2,500 per night Deluxe Room: 3,500 per night. Kaunsa option app choose karna chaahenge?",
+    "start": 22
+  },
+  {
+    "speaker": "Customer",
+    "text": "Theek hai, ek standard room 10th ki night ke liye book kar dijiye",
+    "start": 27
+  },
+  {
+    "speaker": "AI",
+    "text": "Sure, sir...",
+    "start": 33
+  },
+  {
+    "speaker": "Customer",
+    "text": "Umm, ek aur cheez--kya main early check-in kar sakta hoon? Around 9 AM?",
+    "start": 36
+  },
+  {
+    "speaker": "AI",
+    "text": "Early check-in 9 August ke check-outs par depend karega, lekin ab tak ke data ke hisaab se 80% chance hai ki 9 baje room mil jaayega. Room jaise hi ready hoga, main 10th morning aapko WhatsApp par update bhej dunga. Theek rahega?",
+    "start": 40
+  },
+  {
+    "speaker": "Customer",
+    "text": "Haan, that would be great.",
+    "start": 45
+  },
+  {
+    "speaker": "AI",
+    "text": "Perfect. Shall I go ahead and lock the booking?",
+    "start": 49
+  },
+  {
+    "speaker": "Customer",
+    "text": "Yes, please confirm",
+    "start": 52
+  },
+  {
+    "speaker": "AI",
+    "text": "Great! Main booking create kar raha hoon. isi WhatsAPp number par aapko payment link milega. Payment receive hote hi bokking pakki ho jayegi",
+    "start": 55
+  },
+  {
+    "speaker": "Customer",
+    "text": "Okay",
+    "start": 59
+  },
+  {
+    "speaker": "AI",
+    "text": "Aur koi sahayata chahiye aapko?",
+    "start": 62
+  }
+]
